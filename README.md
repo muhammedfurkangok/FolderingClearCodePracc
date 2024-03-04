@@ -6,14 +6,18 @@ Proje Özeti:
 Temel "Roll A Ball" Oyunu 
 
 Scriptable Objects: Tekrar kullanılabilir kod parçalarını ve verileri kapsüllemek için scriptable objects kullanılabilir. Bu, kodun daha organize ve anlaşılır olmasını sağlar.
+
 Patternler: Singleton, Factory ve Observer gibi patternler, kodun daha esnek ve bakımı kolay hale gelmesine yardımcı olur.
-Klasörleme Yapısı:
+
 
 
 
 Singleton: Oyun ayarları ve ses efektleri gibi tek bir örneği olması gereken nesneler için singleton pattern kullanılabilir.
+
 Factory: Platform ve engel gibi nesnelerin oluşturulmasını yönetmek için factory pattern kullanılabilir.
+
 Observer: Oyun nesneleri arasındaki iletişimi yönetmek için observer pattern kullanılabilir.
+
 Projenin Faydaları:
 
 Daha temiz ve organize kod
